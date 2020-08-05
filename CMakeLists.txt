@@ -51,7 +51,9 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
 add_message_files(
   FILES
+  Accelerometer.msg
   DutyCycle.msg
+  Gyroscope.msg
   Magnetometer.msg
   Motor.msg
   Orientation.msg
