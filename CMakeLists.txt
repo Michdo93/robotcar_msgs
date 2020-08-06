@@ -58,26 +58,18 @@ add_message_files(
   Motor.msg
   Orientation.msg
   Pan.msg
-  PanDeg.msg
-  PanIntervall.msg
-  PanIntervallDeg.msg
-  PanRange.msg
-  PanRangeDeg.msg
   Pitch.msg
   RelativeVelocity.msg
   Roll.msg
   Rpm.msg
+  Servo.msg
+  ServoDeg.msg
+  ServoIntervall.msg
+  ServoIntervallDeg.msg
+  ServoRange.msg
+  ServoRangeDeg.msg
   Steer.msg
-  SteerDeg.msg
-  SteerIntervall.msg
-  SteerIntervallDeg.msg
-  SteerRange.msg
-  SteerRangeDeg.msg
   Tilt.msg
-  TiltDeg.msg
-  TiltIntervallDeg.msg
-  TiltRange.msg
-  TiltRangeDeg.msg
   Velocity.msg
   Yaw.msg
 )
