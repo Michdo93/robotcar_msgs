@@ -16,10 +16,6 @@ float32 field_of_view   # the size of the arc that the distance reading is
                         # field_of_view/2 at the measured range. 
                         # 0 angle corresponds to the x-axis of the sensor.
 
-float32 min_range       # minimum range value [m]
-float32 max_range       # maximum range value [m]
-                        # Fixed distance rangers require min_range==max_range
-
 float32 relative_velocity   # range data [m]
                             # (Note: values < range_min or > range_max
                             # should be discarded)
