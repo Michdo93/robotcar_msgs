@@ -1,4 +1,4 @@
-# [robotcar_msgs](..)/AccelerometerMessage #
+# [robotcar_msgs](../README.md)/AccelerometerMessage #
 
 ## File: robotcar_msgs/Accelerometer.msg
 ## Raw Message Definition
