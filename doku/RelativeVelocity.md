@@ -1,6 +1,6 @@
 # [robotcar_msgs](../README.md)/RelativeVelocityMessage #
 
-## File: robotcar_msgs/Accelerometer.msg
+## File: robotcar_msgs/RelativeVelocity.msg
 ## Raw Message Definition
 
 Header header  \# timestamp in the header is the time the ranger  
