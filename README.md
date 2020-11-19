@@ -13,7 +13,7 @@ See also:
 * [Orientation]doku/(doku/Orientation.md)
 * [Pan](doku/Pan.mdoku/d)
 * [Pitch](dokudoku//Pitch.md)
-* [RelativeVedoku/locity](doku/RelativeVelocity.md)
+* [RelativeVelocity](doku/RelativeVelocity.md)
 * [Roll](doku/Roldoku/l.md)
 * [Rpm](doku/doku/Rpm.md)
 * [Servo](doku/Servo.md)
