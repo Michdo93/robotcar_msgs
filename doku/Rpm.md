@@ -1,6 +1,6 @@
-# [robotcar_msgs](../README.md)/AccelerometerMessage #
+# [robotcar_msgs](../README.md)/RpmMessage #
 
-## File: robotcar_msgs/Accelerometer.msg
+## File: robotcar_msgs/Rpm.msg
 ## Raw Message Definition
 
 Header header  
