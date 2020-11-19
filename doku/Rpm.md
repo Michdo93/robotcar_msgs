@@ -12,4 +12,4 @@ int8 rpm
 
 [std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-[std_msgs/int8](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Float64.html) rpm  
+[std_msgs/int8](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Int8.html) rpm  
